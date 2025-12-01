@@ -13,7 +13,8 @@ My portfolio showcasing my cybersecurity journey, including challenge platforms,
 ├── ctf/            # CTF competition participation and rankings
 ├── bugbounty/      # Bug bounty findings and statistics
 ├── writeups/       # Detailed write-ups and walkthroughs
-└── tools/          # Tools, scripts, and configurations
+├──tools/           # Tools, scripts, and configurations
+└── source/         # External sources, references, and utilities
 ```
 
 ---
@@ -27,7 +28,7 @@ Practicing offensive security skills on various platforms.
 | [Root-Me](https://www.root-me.org/) | [Profile](https://www.root-me.org/Ugo-469234) |
 | [Hack The Box](https://www.hackthebox.com/) | [Profile](https://app.hackthebox.com/users/2786020) |
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Ugo-469234&gstats=show&style=midnight)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Ugo-469234&gstats=show&style=dark)
 
 ![Hack-The-Box-stats](https://htb-stats.vercel.app/api/htb.js?id=2786020)
 
@@ -118,6 +119,20 @@ A curated collection of tools used for security assessments and CTF challenges.
 | **Crypto & Forensics** | John the Ripper, Hashcat, Volatility, Wireshark |
 
 📁 **[View Tools →](./tools/)**
+
+---
+
+## 📦 Sources
+
+Additional source code and references for projects I use that are **not directly related to offensive security**, but complement the ecosystem.
+
+Contains:
+
+- **root-me-stats** — A GitHub project offering a visual interface for tracking progress on Root-Me.
+- **HackTheBox-stats** — A repository that provides a graphical dashboard to track progress on Hack The Box.
+- Other scripts, utilities, or external resources used across this portfolio.
+
+📁 **[View Sources →](./source/)**
 
 ---
 
