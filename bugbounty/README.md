@@ -20,6 +20,10 @@ Nothing for this moment
 
 ---
 
-*Detailed write-ups (where allowed) are in the [writeups](../writeups) folder.*
+*Detailed write-ups (where allowed) are in each bug bounty program’s dedicated folder.*
 
 > ⚠️ **Note**: Only public/disclosed vulnerabilities are documented here in accordance with responsible disclosure policies.
+
+---
+
+[Back to Main](../index.md)

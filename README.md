@@ -60,7 +60,7 @@ Capture The Flag competition participation and rankings.
 
 | CTF | Year | Ranking | Categories |
 |-----|------|---------|------------|
-| *Coming soon* | - | - | - |
+| Enedis CTF | 2025 | 10/33 | Web |
 
 **Practiced Categories:**
 - 🌐 Web Exploitation
@@ -82,27 +82,13 @@ Responsible disclosure and vulnerability research on bug bounty platforms, inclu
 
 | Date        | Event                  | Link                                                               | Ranking   |
 | ----------- | ---------------------- | ------------------------------------------------------------------ | --------- |
-| Oct-2025    | Hack4Value Bug Bounty  | https://hack4values.eu/                                            | *N/A*     |
+| Oct-2025    | Hack4Value Bug Bounty  | [Hack4Value](https://hack4values.eu/)                                            | *N/A*     |
 
 I have create an account **YesWeHack**, but I have not yet participated in any bug bounty programs on this platform.
 
 ![YesWeHack account](https://yeswehack.com/hunters/ugomajer123)
 
 📁 **[View Bug Bounty →](./bugbounty/)**
-
----
-
-## 📝 Write-ups
-
-Detailed write-ups documenting methodologies, solutions, and lessons learned.
-
-| Category | Count |
-|----------|-------|
-| CTF Challenges | X |
-| Platform Challenges | X |
-| Lab Walkthroughs | X |
-
-📁 **[View Write-ups →](./writeups/)**
 
 ---
 

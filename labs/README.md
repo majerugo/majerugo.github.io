@@ -20,3 +20,7 @@ Each lab includes:
 ---
 
 *Detailed attack paths are available in each lab’s dedicated folder.*
+
+---
+
+[Back to Main](../index.md)

@@ -14,4 +14,8 @@ This directory contains write-ups from Capture The Flag (CTF) competitions.
 
 ---
 
-*Full write-ups for CTF challenges are available in the [writeups](../writeups) folder.*
+*Each subfolder contains CTF-specific write-ups and solutions.*
+
+---
+
+[Back to Main](../index.md)
