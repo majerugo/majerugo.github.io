@@ -1,23 +1,17 @@
 # CTF Competitions
 
-This folder contains documentation from Capture The Flag competitions.
+This directory contains write-ups from Capture The Flag (CTF) competitions.
 
 ## Competition History
 
-| CTF Name | Date | Team | Ranking | Categories |
-|----------|------|------|---------|------------|
-| Example CTF | 2024 | Solo/Team | #X/Y | Web, Pwn, Crypto |
+| CTF Name   | Date     | Team      | Ranking | Categories | Flags |
+| ---------- | -------- | --------- | ------- | ---------- | ----- |
+| Enedis CTF | Nov 2025 | Team of 3 | 10/33   | Web        | 16/20 |
 
 ## Categories Practiced
 
-- 🌐 **Web Exploitation**
-- 🔐 **Cryptography**
-- 💻 **Binary Exploitation (Pwn)**
-- 🔍 **Forensics**
-- 🔄 **Reverse Engineering**
-- 📡 **Network**
-- 🧩 **Miscellaneous**
+* 🌐 **Web Exploitation**
 
 ---
 
-*Write-ups for CTF challenges can be found in the [writeups](../writeups) folder.*
+*Full write-ups for CTF challenges are available in the [writeups](../writeups) folder.*
