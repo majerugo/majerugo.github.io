@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Portfolio
 
-A professional portfolio showcasing my cybersecurity journey, including challenge platforms, labs, CTF competitions, bug bounty hunting, and the tools I use.
+My portfolio showcasing my cybersecurity journey, including challenge platforms, labs, CTF competitions, bug bounty hunting, and the tools I use.
 
 ---
 
@@ -8,7 +8,7 @@ A professional portfolio showcasing my cybersecurity journey, including challeng
 
 ```
 .
-├── challenges/     # Challenge platform solutions (Root-Me, HTB, TryHackMe)
+├── challenges/     # Challenge platform solutions (HTB)
 ├── labs/           # Lab environments and attack path documentation
 ├── ctf/            # CTF competition participation and rankings
 ├── bugbounty/      # Bug bounty findings and statistics
@@ -22,11 +22,14 @@ A professional portfolio showcasing my cybersecurity journey, including challeng
 
 Practicing offensive security skills on various platforms.
 
-| Platform | Profile | Progress |
-|----------|---------|----------|
-| [Root-Me](https://www.root-me.org/) | [Profile](#) | X challenges |
-| [Hack The Box](https://www.hackthebox.com/) | [Profile](#) | X machines |
-| [TryHackMe](https://tryhackme.com/) | [Profile](#) | X rooms |
+| Platform | Profile |
+|----------|---------|
+| [Root-Me](https://www.root-me.org/) | [Profile](https://www.root-me.org/Ugo-469234) |
+| [Hack The Box](https://www.hackthebox.com/) | [Profile](https://app.hackthebox.com/users/2786020) |
+
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Ugo-469234&gstats=show&style=midnight)
+
+![Hack-The-Box-stats](https://htb-stats.vercel.app/api/htb.js?id=2786020)
 
 📁 **[View Challenges →](./challenges/)**
 
@@ -65,24 +68,24 @@ Capture The Flag competition participation and rankings.
 - 🔍 Forensics
 - 🔄 Reverse Engineering
 
+Currently competing with team [HDFR](https://ctftime.org/team/384849) ranked Top 3 in France. (last update 01/12/2025)
+
 📁 **[View CTF →](./ctf/)**
 
 ---
 
 ## 🐛 Bug Bounty
 
-Responsible disclosure and vulnerability research on bug bounty platforms.
+Responsible disclosure and vulnerability research on bug bounty platforms, including active participation in various programs.
 
-| Platform | Reports | Valid Findings |
-|----------|---------|----------------|
-| [HackerOne](https://hackerone.com/) | X | X |
-| [Bugcrowd](https://bugcrowd.com/) | X | X |
 
-**Vulnerability Types:**
-- XSS (Cross-Site Scripting)
-- SQL Injection
-- IDOR (Insecure Direct Object Reference)
-- Authentication Bypass
+| Date        | Event                  | Link                                                               | Ranking   |
+| ----------- | ---------------------- | ------------------------------------------------------------------ | --------- |
+| Oct-2025    | Hack4Value Bug Bounty  | https://hack4values.eu/                                            | *N/A*     |
+
+I have create an account **YesWeHack**, but I have not yet participated in any bug bounty programs on this platform.
+
+![YesWeHack account](https://yeswehack.com/hunters/ugomajer123)
 
 📁 **[View Bug Bounty →](./bugbounty/)**
 
@@ -108,8 +111,8 @@ A curated collection of tools used for security assessments and CTF challenges.
 
 | Category | Tools |
 |----------|-------|
-| **Reconnaissance** | Nmap, Amass, Subfinder, Gobuster |
-| **Web Testing** | Burp Suite, OWASP ZAP, SQLMap |
+| **Reconnaissance** | Nmap, fuff, Gobuster |
+| **Web Testing** | Burp Suite, SQLMap |
 | **Exploitation** | Metasploit, Pwntools, Impacket |
 | **Post-Exploitation** | LinPEAS, WinPEAS, BloodHound |
 | **Crypto & Forensics** | John the Ripper, Hashcat, Volatility, Wireshark |
@@ -118,17 +121,10 @@ A curated collection of tools used for security assessments and CTF challenges.
 
 ---
 
-## 📊 Stats & Achievements
-
-> *Section to be updated with platform statistics and achievements.*
-
----
-
 ## 📫 Contact
 
-- **GitHub**: [@majerugo](https://github.com/majerugo)
-- **LinkedIn**: [Your LinkedIn](#)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **GitHub**: [@majerugo](https://github.com/majerugo/)
+- **LinkedIn**: [Ugo Majer](https://www.linkedin.com/in/ugo-majer-9331a02b6/)
 
 ---
 
