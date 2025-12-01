@@ -7,8 +7,6 @@ This folder contains custom tools, scripts, and documentation of the toolset use
 | Tool | Description | Link |
 |------|-------------|------|
 | Nmap | Network discovery and security auditing | [nmap.org](https://nmap.org/) |
-| Amass | In-depth attack surface mapping | [GitHub](https://github.com/owasp-amass/amass) |
-| Subfinder | Subdomain discovery tool | [GitHub](https://github.com/projectdiscovery/subfinder) |
 | Gobuster | Directory/file & DNS busting | [GitHub](https://github.com/OJ/gobuster) |
 
 ## Web Application Testing
@@ -16,9 +14,7 @@ This folder contains custom tools, scripts, and documentation of the toolset use
 | Tool | Description | Link |
 |------|-------------|------|
 | Burp Suite | Web vulnerability scanner | [portswigger.net](https://portswigger.net/burp) |
-| OWASP ZAP | Web app security scanner | [zaproxy.org](https://www.zaproxy.org/) |
 | SQLMap | SQL injection automation | [sqlmap.org](https://sqlmap.org/) |
-| Nikto | Web server scanner | [GitHub](https://github.com/sullo/nikto) |
 
 ## Exploitation
 
@@ -49,9 +45,6 @@ This folder contains custom tools, scripts, and documentation of the toolset use
 
 This folder also contains custom scripts developed for:
 - Automation tasks
-- Enumeration helpers
-- Exploit development
-- CTF utilities
 
 ---
 
