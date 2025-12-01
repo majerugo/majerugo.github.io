@@ -4,25 +4,19 @@ This folder contains documentation of bug bounty hunting activities and findings
 
 ## Platforms
 
-- [HackerOne](https://hackerone.com/)
-- [Bugcrowd](https://bugcrowd.com/)
-- [Intigriti](https://intigriti.com/)
+- [YesWeHack](https://yeswehack.com)
 
 ## Statistics
 
 | Metric | Count |
 |--------|-------|
-| Reports Submitted | X |
-| Valid Vulnerabilities | X |
-| Bounties Earned | $X |
+| Reports Submitted | 0 |
+| Valid Vulnerabilities | 0 |
+| Bounties Earned | 0$ |
 
 ## Vulnerability Types Found
 
-- Cross-Site Scripting (XSS)
-- SQL Injection
-- IDOR
-- Authentication Bypass
-- Information Disclosure
+Nothing for this moment
 
 ---
 
