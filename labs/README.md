@@ -1,21 +1,22 @@
 # Labs
 
-This folder contains documentation of lab environments and attack paths explored.
+This directory contains documentation of lab environments and the attack paths explored within them.
 
 ## Lab Environments
 
-| Lab Name | Platform | Attack Path | Status |
-|----------|----------|-------------|--------|
-| Example Lab | HTB/VulnHub | Enumeration → Exploit → Privilege Escalation | ✅ Completed |
+| Lab Name | Platform | OS      | Status      | Link        |
+| -------- | -------- | ------- | ----------- | ----------- |
+| GOAD     | GitHub   | Windows | Not started | [GOAD](https://github.com/Orange-Cyberdefense/GOAD?tab=readme-ov-file) |
 
 ## Attack Path Documentation
 
 Each lab includes:
-- **Reconnaissance**: Initial enumeration and information gathering
-- **Exploitation**: Vulnerability identification and exploitation
-- **Post-Exploitation**: Privilege escalation and persistence
-- **Lessons Learned**: Key takeaways and techniques practiced
+
+* **Reconnaissance**: Enumeration and information gathering
+* **Exploitation**: Vulnerability discovery and exploitation
+* **Post-Exploitation**: Privilege escalation, lateral movement, and persistence
+* **Lessons Learned**: Key takeaways, methodologies, and skills developed
 
 ---
 
-*Detailed attack paths are documented in individual lab folders.*
+*Detailed attack paths are available in each lab’s dedicated folder.*
