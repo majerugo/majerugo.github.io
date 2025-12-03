@@ -67,3 +67,5 @@ We can try to find a CVE to elevate our privilege via below. And we find CVE-202
 So add a new root user in the `/etc/passwd` file with this following [github CVE-2025-27591](https://github.com/HOEUN-Visai/CVE-2025-27591-below-)
 
 And we can become root via `su` with the password that we set in the `/etc/passwd` file.
+
+📁 **[Back to HackTheBox Challenges](../README.md)**

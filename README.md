@@ -62,11 +62,11 @@ Capture The Flag competition participation and rankings.
 | Enedis CTF | 2025 | 10/33 | Web |
 
 **Practiced Categories:**
-- 🌐 Web Exploitation
-- 🔐 Cryptography
-- 💻 Binary Exploitation (Pwn)
-- 🔍 Forensics
-- 🔄 Reverse Engineering
+- Web Exploitation
+- Cryptography
+- Binary Exploitation (Pwn)
+- Forensics
+- Reverse Engineering
 
 Currently competing with team [HDFR](https://ctftime.org/team/384849) ranked Top 3 in France. (last update 01/12/2025)
 
