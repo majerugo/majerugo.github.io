@@ -23,6 +23,7 @@ This folder contains custom tools, scripts, and documentation of the toolset use
 | Metasploit | Penetration testing framework | [metasploit.com](https://www.metasploit.com/) |
 | Pwntools | CTF framework and exploit development | [GitHub](https://github.com/Gallopsled/pwntools) |
 | Impacket | Network protocol tools | [GitHub](https://github.com/fortra/impacket) |
+| Netexec | The Network Execution Tool | [GitHub](https://github.com/Pennyw0rth/NetExec) |
 
 ## Post-Exploitation
 
@@ -41,6 +42,15 @@ This folder contains custom tools, scripts, and documentation of the toolset use
 | Volatility | Memory forensics | [GitHub](https://github.com/volatilityfoundation/volatility3) |
 | Wireshark | Network protocol analyzer | [wireshark.org](https://www.wireshark.org/) |
 
+## Windows Specific Tools
+
+| Tool | Description | Link |
+|------|-------------|------|
+| Mimikatz | Credential extraction | [GitHub](https://github.com/gentilkiwi/mimikatz) |
+| SharpHound | Data collection for BloodHound | [GitHub](https://github.com/BloodHoundAD/SharpHound) |
+| Responder | LLMNR, NBT-NS and MDNS poisoner | [GitHub](https://github.com/lgandx/Responder) |
+
+
 ## Custom Scripts
 
 This folder also contains custom scripts developed for:
@@ -52,4 +62,4 @@ This folder also contains custom scripts developed for:
 
 ---
 
-[Back to Main](../index.md)
+📁 **[Back to Main](../index.md)**

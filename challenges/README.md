@@ -16,10 +16,12 @@ Profile: [HackTheBox profile](https://app.hackthebox.com/users/2786020)
 
 ![Hack-The-Box-stats](https://htb-stats.vercel.app/api/htb.js?id=2786020)
 
+📁 **[Write-ups](./hackthebox)**
+
 ---
 
 *Each subfolder contains challenge-specific documentation and solutions.*
 
 ---
 
-[Back to Main](../index.md)
+📁 **[Back to Main](../index.md)**

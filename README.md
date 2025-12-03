@@ -1,10 +1,10 @@
-# 🔐 Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
 My portfolio showcasing my cybersecurity journey, including challenge platforms, labs, CTF competitions, bug bounty hunting, and the tools I use.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -13,13 +13,13 @@ My portfolio showcasing my cybersecurity journey, including challenge platforms,
 ├── ctf/            # CTF competition participation and rankings
 ├── bugbounty/      # Bug bounty findings and statistics
 ├── writeups/       # Detailed write-ups and walkthroughs
-├──tools/           # Tools, scripts, and configurations
+├── tools/          # Tools, scripts, and configurations
 └── source/         # External sources, references, and utilities
 ```
 
 ---
 
-## 🎯 Challenges
+## Challenges
 
 Practicing offensive security skills on various platforms.
 
@@ -36,8 +36,7 @@ Practicing offensive security skills on various platforms.
 
 ---
 
-## 🧪 Labs
-
+## Labs
 Hands-on lab environments exploring complete attack paths from reconnaissance to post-exploitation.
 
 | Lab | Platform | Focus Area | Status |
@@ -54,7 +53,7 @@ Each lab includes:
 
 ---
 
-## 🏆 CTF Competitions
+## CTF Competitions
 
 Capture The Flag competition participation and rankings.
 
@@ -75,7 +74,7 @@ Currently competing with team [HDFR](https://ctftime.org/team/384849) ranked Top
 
 ---
 
-## 🐛 Bug Bounty
+## Bug Bounty
 
 Responsible disclosure and vulnerability research on bug bounty platforms, including active participation in various programs.
 
@@ -92,7 +91,7 @@ I have create an account **YesWeHack**, but I have not yet participated in any b
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 A curated collection of tools used for security assessments and CTF challenges.
 
@@ -108,7 +107,7 @@ A curated collection of tools used for security assessments and CTF challenges.
 
 ---
 
-## 📦 Sources
+## Sources
 
 Additional source code and references for projects I use that are **not directly related to offensive security**, but complement the ecosystem.
 
@@ -122,14 +121,14 @@ Contains:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **GitHub**: [@majerugo](https://github.com/majerugo/)
 - **LinkedIn**: [Ugo Majer](https://www.linkedin.com/in/ugo-majer-9331a02b6/)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All content in this repository is for **educational purposes only**. Techniques and tools documented here should only be used in authorized environments. Always obtain proper permission before testing any system.
 

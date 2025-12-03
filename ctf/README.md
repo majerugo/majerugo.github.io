@@ -10,7 +10,7 @@ This directory contains write-ups from Capture The Flag (CTF) competitions.
 
 ## Categories Practiced
 
-* 🌐 **Web Exploitation**
+* **Web Exploitation**
 
 ---
 
@@ -18,4 +18,4 @@ This directory contains write-ups from Capture The Flag (CTF) competitions.
 
 ---
 
-[Back to Main](../index.md)
+📁 **[Back to Main](../index.md)**
