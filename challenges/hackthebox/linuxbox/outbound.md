@@ -1,6 +1,6 @@
 # Outbound
 
-## Reconnaissance
+## Reconnaissance
 
 We use nmap to find open ports and services on the target machine.
 

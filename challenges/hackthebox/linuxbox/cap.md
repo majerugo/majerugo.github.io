@@ -14,7 +14,7 @@ So we can try to login in ssh with the same credentials.
 
 And now we have a shell.
 
-## Privilege Escalation
+## Privilege Escalation
 
 But we need to escalate our privileges to root.
 

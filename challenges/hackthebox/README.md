@@ -12,10 +12,10 @@ Each boxes includes:
 
 ### Linux Boxes
 
-- **[Cap](./linuxbox/README.md)** (*Easy*) : Web exploitation using captured network traffic and privilege escalation via misconfigured Python installation.
+- **[Cap](./linuxbox/cap.md)** (*Easy*) : Web exploitation using captured network traffic and privilege escalation via misconfigured Python installation.
 - **[Outbound](./linuxbox/outbound.md)** (*Easy*) : Exploiting a vulnerable web application to gain initial access and escalating privileges through a misconfigured sudo permission via CVE-2025-27591.
 
-### Windows Boxes
+### Windows Boxes
 
 - **[Coming soon]** :
 
