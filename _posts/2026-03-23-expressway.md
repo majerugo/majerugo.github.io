@@ -6,6 +6,7 @@ description: Exploiting an IPsec IKE PSK configuration to gain initial access, t
 categories:
 - Challenges
 - HackTheBox
+- Linux
 tags:
 - hackthebox
 - writeups

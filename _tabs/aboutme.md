@@ -12,7 +12,9 @@ Fifth-year student at **EPITA** specializing in **Systems, Networks, and Securit
 
 I have been practicing cybersecurity since **July 2020** on Root-Me, with intensive focus starting in **April 2025**. My background includes development experience since middle school and hands-on forensics work as an **IT expert assistant**.
 
-Currently seeking opportunities in **penetration testing** and **red team operations** following my upcoming internship focused on ransomware recovery infrastructure.
+Currently working in a **Blue Team** role at **Ensmble Hospitalier de la Côte (EHC)** in Switzerland.
+
+Actively seeking opportunities in **penetration testing** and **red team operations** for **mid-August**, following my internship focused on ransomware recovery infrastructure.
 
 ### Areas of Expertise
 
@@ -23,13 +25,23 @@ Currently seeking opportunities in **penetration testing** and **red team operat
 
 ### Technical Skills
 
-**Programming**: Python, C, C++, x86 Assembly, Bash, PowerShell
+**Programming**: Python, C, C++, C#, x86 Assembly, Bash, PowerShell, JavaScript, SQL, HTML/CSS, Java
 
 **Current Goal**: Obtain the **HTB Certified Penetration Testing Specialist (CPTS)** certification
 
 ---
 
 ## Professional Experience
+
+### Cybersecurity Intern
+**Ensemble Hospitalier de la Côte (EHC)**  
+**February 2026 – Present (until August 2026)** · Morges, Switzerland
+
+- Leading a cyber-resilience infrastructure project activatable during ransomware incidents, in coordination with external providers.
+- Conducting a critical application audit to define business continuity priorities and backup infrastructure constraints.
+- Implementing post-pentest remediation by analyzing identified vulnerabilities and exploited attack vectors.
+- Automating phishing incident handling workflows with **n8n**, reducing response time to campaigns targeting the organization.
+- Contributing to operational security management for an environment of **2,000+ users** within a 3-person team in a critical hospital setting.
 
 ### IT Expert Assistant
 **Digital Forensics Internship**
@@ -61,7 +73,7 @@ List of challenge platforms and profiles:
 
 ## CTF Competitions
 
-Active member of **[HDFR](https://ctftime.org/team/384849)**, ranked **Top 3 in France** (as of December 2025).
+Active member of **[HDFR](https://ctftime.org/team/384849)**, ranked **Top 2 in France** (during 2025).
 
 Participating in CTF competitions regularly with a focus on pwn exploitation, web exploitation and attack-defense scenarios.
 
@@ -96,12 +108,6 @@ Hands-on lab environments exploring complete attack paths from reconnaissance to
 
 Waiting for new materials to run [GOAD](https://github.com/Orange-Cyberdefense/GOAD) labs.
 
-Each lab includes:
-* **Reconnaissance**: Enumeration and information gathering
-* **Exploitation**: Vulnerability discovery and exploitation
-* **Post-Exploitation**: Privilege escalation, lateral movement, and persistence
-* **Lessons Learned**: Key takeaways, methodologies, and skills developed
-
 ---
 
 ## Sources
@@ -112,6 +118,7 @@ Additional source code and references for projects I use that are **not necessar
 
 - **[HackTricks](https://book.hacktricks.wiki/fr/index.html)** : A comprehensive collection of hacking techniques and tricks, available in both English and French.
 - **[PayloadsAllTheThings](https://swisskyrepo.github.io/PayloadsAllTheThings/)** : A repository of useful payloads and bypasses for various web security vulnerabilities.
+- **[List of tools](https://majerugo.github.io/tools/)** : A curated list of tools I use for penetration testing and security research.
 
 ### Challenge Stats
 

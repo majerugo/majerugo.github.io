@@ -6,6 +6,7 @@ description: Exploiting an XSLT injection vulnerability to gain initial access, 
 categories:
 - Challenges
 - HackTheBox
+- Linux
 tags:
 - hackthebox
 - writeups

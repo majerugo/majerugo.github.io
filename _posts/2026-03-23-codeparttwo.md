@@ -6,6 +6,7 @@ description: Exploiting a Js2Py RCE (CVE-2024-28397) for initial access, then es
 categories:
 - Challenges
 - HackTheBox
+- Linux
 tags:
 - hackthebox
 - writeups
