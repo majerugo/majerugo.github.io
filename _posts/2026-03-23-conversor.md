@@ -9,7 +9,6 @@ categories:
 tags:
 - hackthebox
 - writeups
-- linux
 - easy
 ---
 
