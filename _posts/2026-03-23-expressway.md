@@ -5,7 +5,6 @@ date: 2026-03-23 20:46 +0100
 description: Exploiting an IPsec IKE PSK configuration to gain initial access, then escalating privileges through a sudo vulnerability in Sudo 1.9.17 (CVE-2025-32463).
 categories:
 - Challenges
-- HackTheBox
 - Linux
 tags:
 - hackthebox

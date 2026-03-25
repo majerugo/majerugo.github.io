@@ -5,7 +5,6 @@ date: 2026-03-23 20:04 +0100
 description: Exploiting an XSLT injection vulnerability to gain initial access, then escalating privileges through SQLite credential cracking and sudo abuse of needrestart.
 categories:
 - Challenges
-- HackTheBox
 - Linux
 tags:
 - hackthebox

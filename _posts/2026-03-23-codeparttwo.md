@@ -5,7 +5,6 @@ date: 2026-03-23 19:58 +0100
 description: Exploiting a Js2Py RCE (CVE-2024-28397) for initial access, then escalating privileges through SQLite credential cracking and sudo abuse of npbackup-cli.
 categories:
 - Challenges
-- HackTheBox
 - Linux
 tags:
 - hackthebox
