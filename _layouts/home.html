@@ -46,7 +46,10 @@ layout: default
   {% endfor %}
 {% endif %}
 
-> 💡 Learn more: Check out my [profile]({{ '/tabs/aboutme' | relative_url }}) to learn more about me and my journey.
+<div class="alert alert-info px-xl-1 mb-3" role="alert">
+  <i class="fas fa-lightbulb me-2"></i>
+  Learn more: Check out my <a href="{{ '/aboutme' | relative_url }}">profile</a> to learn more about me and my journey.
+</div>
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
