@@ -33,21 +33,13 @@ Actively seeking opportunities in **penetration testing** and **red team operati
 
 ## Professional Experience
 
-### Cybersecurity Intern
+### Cybersecurity Intern (blue team)
 **Ensemble Hospitalier de la Côte (EHC)**  
 **February 2026 – Present (until August 2026)** · Morges, Switzerland
 
-- Leading a cyber-resilience infrastructure project activatable during ransomware incidents, in coordination with external providers.
-- Conducting a critical application audit to define business continuity priorities and backup infrastructure constraints.
-- Implementing post-pentest remediation by analyzing identified vulnerabilities and exploited attack vectors.
-- Automating phishing incident handling workflows with **n8n**, reducing response time to campaigns targeting the organization.
-- Contributing to operational security management for an environment of **2,000+ users** within a 3-person team in a critical hospital setting.
-
-### IT Expert Assistant
+### IT Expert Assistant 
 **Digital Forensics Internship**
-
-Extracted usable digital evidence from information systems for judicial investigations.
-Automated and optimized expert processes using AI techniques and scripting tools.
+**September 2024 – February 2025** · France
 
 ---
 
@@ -107,6 +99,12 @@ Hands-on lab environments exploring complete attack paths from reconnaissance to
 | *Coming soon* | - | - | 🔄 |
 
 Waiting for new materials to run [GOAD](https://github.com/Orange-Cyberdefense/GOAD) labs.
+
+---
+
+## Personal Projects
+
+- **[SecPodcast](https://github.com/majerugo/secpodcast)** : Automatically converts offensive security blog posts into audio podcasts served via private RSS feed over Tailscale. Daily cron jobs fetch RSS feeds, generate two-host technical conversations using Gemini 2.0, and produce MP3s with edge-tts. Fully self-hosted and Docker containerized with zero configuration needed.
 
 ---
 
